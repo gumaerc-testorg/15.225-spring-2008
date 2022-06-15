@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the general requirements for the
+  course's written assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -23,4 +25,4 @@ This group project is due four days after Ses #13 and will count for 40 percent 
 
 The paper can be simply factual, such as the following: "China is more competitive than India in home appliance industry and here are the indicators demonstrating this point." The paper can be also analytical, such as the following: "India's democracy has helped the country's IT outsourcing business because, as a number of scholars have argued, there is more trust in a democracy and trust is an essential ingredient in a outsourcing business model." (I do not necessarily stand behind these two statements. I am giving them as illustrations of the type of projects that can be done.) This is a **group** assignment. You can work in teams up to 3 or 4 people on the report.
 
-More guidelines and suggestions for the group research report: ([PDF]({{< baseurl >}}/resources/final_assn))
+More guidelines and suggestions for the group research report: ({{% resource_link 9a65f587-07d6-6200-204d-d9b5371974b0 "PDF" %}})

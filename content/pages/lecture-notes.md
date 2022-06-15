@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the introductory lecture, the list of lecture topics,
+  and a set of discussion questions for each class session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,7 +38,7 @@ QUESTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to the course ([PDF]({{< baseurl >}}/resources/lecture1))
+Introduction to the course ({{% resource_link ddb14b17-eff7-6c75-96ac-f9cf6ff12ae5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
