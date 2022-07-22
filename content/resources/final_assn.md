@@ -5,6 +5,7 @@ file: /courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Paper Projects
 uid: 9a65f587-07d6-6200-204d-d9b5371974b0
 ---
 Guidelines and suggestions for the final group research project.
-
