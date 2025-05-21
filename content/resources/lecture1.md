@@ -2,7 +2,7 @@
 content_type: resource
 description: Introductory lecture notes on the economy and business in modern China
   and India.
-file: /ol-ocw-studio-app/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/ddb14b17eff76c7596acf9cf6ff12ae5_lecture1.pdf
+file: /courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/ddb14b17eff76c7596acf9cf6ff12ae5_lecture1.pdf
 file_size: 109738
 file_type: application/pdf
 learning_resource_types:
