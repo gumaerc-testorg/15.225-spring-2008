@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines and suggestions for the final group research project.
-file: /courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/9a65f58707d66200204dd9b5371974b0_final_assn.pdf
+file: /ol-ocw-studio-app/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/9a65f58707d66200204dd9b5371974b0_final_assn.pdf
 file_size: 71718
 file_type: application/pdf
 learning_resource_types:
